@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mod-01-DataBindingStart.iml" filepath="$PROJECT_DIR$/.idea/Mod-01-DataBindingStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BindingDemo1.iml" filepath="$PROJECT_DIR$/.idea/modules/BindingDemo1.iml" group="BindingDemo1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="BindingDemo1/app" />
     </modules>
   </component>
 </project>
